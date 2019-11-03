@@ -179,6 +179,7 @@ Echo  Change-Brush: C
 Echo  Draw: B
 Echo  Fill: F
 Echo  Help: H
+Echo  Quit ^& Save: Q
 pause >nul
 mode con: cols=!ColumnMode! lines=!LineMode!
 goto :DisplayShortcut
